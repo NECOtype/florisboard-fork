@@ -39,6 +39,12 @@
         "modifier": "org.florisboard.layouts:armenian"
       },
       {
+        "id": "avestan",
+        "label": "Avestan",
+        "authors": [ "NECOdes" ],
+        "direction": "rtl"
+      },
+      {
         "id": "azerbaijani",
         "label": "Azerbaijani",
         "authors": [ "nijatismayilzada" ],
@@ -782,6 +788,12 @@
         "modifier": "org.florisboard.layouts:neo2"
       },
       {
+        "id": "avestan",
+        "label": "Avestan",
+        "authors": [ "NECOdes" ],
+        "direction": "ltr"
+      },
+      {
         "id": "persian",
         "label": "Persian",
         "authors": [ "patrickgold" ],
@@ -850,6 +862,12 @@
         "id": "ipa",
         "label": "International Phonetic Alphabet",
         "authors": [ "Huy-Ngo" ],
+        "direction": "ltr"
+      },
+      {
+        "id": "avestan",
+        "label": "Avestan",
+        "authors": [ "NECOdes" ],
         "direction": "ltr"
       },
       {
